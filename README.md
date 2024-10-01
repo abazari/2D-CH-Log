@@ -1,4 +1,4 @@
-# CH-Log
+# 2D-CH-Log
 This Matlab code is for the submitted manuscript titled:
 
 "Numerical study of the 2D Cahn-Hilliard model of phase separation
